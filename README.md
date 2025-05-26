@@ -1,1 +1,6 @@
 # coffeelogger
+## What is this?
+coffeelogger is a personal project for learning C++ and applying principles of object oriented software construction to an actual program. The program will allow you to log individual coffee brews, recording parameters such as the grinder, grind size, water temperature, beans, and method, as well as allowing you to write down notes about the results of the brew. By collecting this data, you will be able to gain greater insights into what went into your best brews and how you might recreate them in the future.
+
+## Background
+I have never worked with C++ before, though I have some experience with C and a basic understanding of low level RISC architecture. I have also worked with Java in the past to a significant degree. I think the main challenges of this project will be to apply statistical analysis and to graph the data that the user records. Persistence might also be a challenge as I have never worked with CSV files which I suspect I will have to use here.
